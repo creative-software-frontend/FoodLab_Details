@@ -10,7 +10,6 @@ const HeroSection = () => {
   const badges = [
     'Real-Time Tracking',
     'Auto Dispatch',
-    'Multi Branch',
     'COD System',
   ];
 

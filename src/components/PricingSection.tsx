@@ -29,7 +29,6 @@ const PricingSection = () => {
       features: [
         'Full Automation System',
         'Real-Time Tracking',
-        'Multi Branch Support',
         'Advanced Reports',
         '3PL Integration (RedX, Steadfast, Pathao)',
         'Wordpress Plugin  Available',

@@ -45,7 +45,7 @@ const DemoSection = () => {
                     </p>
 
                     <a
-                        href="https://courier.demo-bd.com/"
+                        href="https://foodlab.demo-bd.com/login"
                         target="_blank"
                         rel="noopener noreferrer"
                         className={styles.mainDemoButton}
@@ -130,10 +130,10 @@ const DemoSection = () => {
                             <div className={styles.fieldGroup}>
                                 <label>Password</label>
                                 {/* Wrap it in the copyWrapper to make it clickable, just like the email field */}
-                                <div className={styles.copyWrapper} onClick={() => handleCopy('123456')}>
-                                    <span>123456</span>
+                                <div className={styles.copyWrapper} onClick={() => handleCopy('12345678')}>
+                                    <span>12345678</span>
                                     <button className={styles.copyBtn}>
-                                        {copiedText === '123456' ? '✓ Copied' : 'Copy'}
+                                        {copiedText === '12345678' ? '✓ Copied' : 'Copy'}
                                     </button>
                                 </div>
                             </div>
