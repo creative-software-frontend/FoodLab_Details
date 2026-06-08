@@ -81,7 +81,7 @@ const DemoSection = () => {
                     >
                         <span>Click the link:</span>
                         <span style={{ textDecoration: 'underline', opacity: 0.95, color: '#e2e8f0' }}>
-                            https://courier.demo-bd.com
+                            https://foodlab.demo-bd.com/login 
                         </span>
                         <svg
                             width="18"
