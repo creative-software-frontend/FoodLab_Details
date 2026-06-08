@@ -15,9 +15,8 @@ const DemoSection = () => {
 
     const credentials: CredentialCard[] = [
         { role: 'System Admin', email: 'admin@gmail.com', color: '#4f46e5' },
-        { role: 'Branch / Hub Manager', email: 'hub@gmail.com', color: '#0ea5e9' },
+        { role: 'Restaurant', email: 'restaurant@gmail.com', color: '#0ea5e9' },
         { role: 'Delivery Rider', email: 'rider@gmail.com', color: '#10b981' },
-        { role: 'Merchant Portal', email: 'merchant@gmail.com', color: '#f59e0b' },
     ];
 
     const handleCopy = (email: string) => {
