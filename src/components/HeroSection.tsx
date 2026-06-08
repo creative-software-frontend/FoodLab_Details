@@ -23,7 +23,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8 }}
           className={styles.title}
         >
-          Smart Courier Software
+          Smart Food Delivery Software
         </motion.h1>
 
         <motion.p
@@ -32,7 +32,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.3 }}
           className={styles.subtitle}
         >
-          Booking থেকে Delivery পর্যন্ত সম্পূর্ণ অটোমেটেড কুরিয়ার ম্যানেজমেন্ট সিস্টেম
+          Booking থেকে Delivery পর্যন্ত সম্পূর্ণ অটোমেটেড Food Delivery ম্যানেজমেন্ট সিস্টেম
         </motion.p>
 
         <div className={styles.badgeContainer}>
