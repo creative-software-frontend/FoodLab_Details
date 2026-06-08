@@ -28,8 +28,8 @@ const ModulesSection = () => {
     { title: 'Analytics Dashboard', icon: <HiOutlineChartBar />, desc: 'Business performance insights' },
     { title: 'SMS Notification', icon: <HiOutlineChatAlt2 />, desc: 'Auto SMS updates for customers' },
     { title: 'Complaint System', icon: <HiOutlineExclamationCircle />, desc: 'Customer complaint handling' },
-    { title: 'Hub Transfer', icon: <HiOutlineSwitchHorizontal />, desc: 'Branch to branch parcel movement' },
-    { title: 'Merchant App', icon: <HiOutlineUserGroup />, desc: 'Order create & manage system' },
+    { title: 'Customer App', icon: <HiOutlineSwitchHorizontal />, desc: 'Food Order & Tracking' },
+    { title: 'Vendor App', icon: <HiOutlineUserGroup />, desc: 'Food create & Order manage system' },
     { title: 'Rider App', icon: <HiOutlineUserCircle />, desc: 'Delivery tracking & task management' },
     { title: 'Settings', icon: <HiOutlineCog />, desc: 'Zone, area, pricing & configuration' },
   ];
