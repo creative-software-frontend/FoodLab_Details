@@ -39,7 +39,7 @@ const DemoSection = () => {
                     className={styles.header}
                 >
                     <span className={styles.badge}>Live Environment</span>
-                    <h2 className={styles.title}>Explore the Courier Software</h2>
+                    <h2 className={styles.title}>Explore the Food Delivery Software</h2>
                     <p className={styles.subtitle}>
                         Test out our live demo systems across multiple operational viewports. Use the access credentials provided below.
                     </p>

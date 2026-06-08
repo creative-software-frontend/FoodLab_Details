@@ -1,4 +1,4 @@
-Courier Software  Live Demo: https://courier.demo-bd.com/
+Food Delivery Software  Live Demo: https://courier.demo-bd.com/
 admin@gmail.com
 hub@gmail.com
 rider@gmail.com

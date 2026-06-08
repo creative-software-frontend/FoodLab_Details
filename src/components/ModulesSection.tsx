@@ -58,7 +58,7 @@ const ModulesSection = () => {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <h2 className="section-title">Complete Courier System Modules</h2>
+          <h2 className="section-title">Complete Food Delivery System Modules</h2>
           <p className="section-subtitle">
             একটি সম্পূর্ণ কুরিয়ার ম্যানেজমেন্ট সিস্টেমের জন্য প্রয়োজনীয় সব মডিউল এখানে অন্তর্ভুক্ত
           </p>
