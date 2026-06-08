@@ -78,11 +78,11 @@ const DemoSection = () => {
                             e.currentTarget.style.boxShadow = '0 10px 25px -5px rgba(30, 39, 46, 0.3), 0 8px 16px -6px rgba(30, 39, 46, 0.2)';
                         }}
                     >
-                        <span>Click the link:</span>
+                        <span>Frontend Click the link:</span>
                         <span style={{ textDecoration: 'underline', opacity: 0.95, color: '#e2e8f0' }}>
-                            https://foodlab.demo-bd.com/login 
-                        </span>
-                        <span>Click the link:</span>
+                            https://foodlabbd.vercel.app/
+                        </span><br />
+                        <span>Backend Click the link:</span>
                         <span style={{ textDecoration: 'underline', opacity: 0.95, color: '#e2e8f0' }}>
                             https://foodlab.demo-bd.com/login 
                         </span>
