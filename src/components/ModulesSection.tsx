@@ -28,8 +28,8 @@ const ModulesSection = () => {
     { title: 'Analytics Dashboard', icon: <HiOutlineChartBar />, desc: 'Business performance insights' },
     { title: 'SMS Notification', icon: <HiOutlineChatAlt2 />, desc: 'Auto SMS updates for customers' },
     { title: 'Complaint System', icon: <HiOutlineExclamationCircle />, desc: 'Customer complaint handling' },
-    { title: 'Customer', icon: <HiOutlineSwitchHorizontal />, desc: 'food Order','Payment' , 'Delivery tracking '},
-    { title: 'Vedor App', icon: <HiOutlineUserGroup />, desc: 'Order create & manage system' },
+    { title: 'Hub Transfer', icon: <HiOutlineSwitchHorizontal />, desc: 'Branch to branch parcel movement' },
+    { title: 'Merchant App', icon: <HiOutlineUserGroup />, desc: 'Order create & manage system' },
     { title: 'Rider App', icon: <HiOutlineUserCircle />, desc: 'Delivery tracking & task management' },
     { title: 'Settings', icon: <HiOutlineCog />, desc: 'Zone, area, pricing & configuration' },
   ];
@@ -58,9 +58,9 @@ const ModulesSection = () => {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <h2 className="section-title">Complete Food Delivery System Modules</h2>
+          <h2 className="section-title">Complete Courier System Modules</h2>
           <p className="section-subtitle">
-            একটি সম্পূর্ণ Food Delivery ম্যানেজমেন্ট সিস্টেমের জন্য প্রয়োজনীয় সব মডিউল এখানে অন্তর্ভুক্ত
+            একটি সম্পূর্ণ কুরিয়ার ম্যানেজমেন্ট সিস্টেমের জন্য প্রয়োজনীয় সব মডিউল এখানে অন্তর্ভুক্ত
           </p>
         </motion.div>
 

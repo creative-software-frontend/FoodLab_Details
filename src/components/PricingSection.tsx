@@ -9,7 +9,7 @@ const PricingSection = () => {
   const plans = [
     {
       name: 'Starter',
-      desc: 'Small Food Delivery Business',
+      desc: 'Small Courier Business',
       price: '50,000',
       features: [
        'Single Branch System',
@@ -24,7 +24,7 @@ const PricingSection = () => {
     },
     {
       name: 'Business',
-      desc: 'Growing Food Delivery Company',
+      desc: 'Growing Courier Company',
       price: '5,00,000',
       features: [
         'Full Automation System',
@@ -42,7 +42,7 @@ const PricingSection = () => {
     },
     {
       name: 'Enterprise',
-      desc: 'Large Food Delivery Network',
+      desc: 'Large Courier Network',
       price: '10,00,000',
       features: [
         'Custom Development',

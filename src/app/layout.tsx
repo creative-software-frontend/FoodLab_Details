@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 
 
 export const metadata: Metadata = {
-  title: "FoodLab | Smart Food Delivery Management Software",
-  description: "Advanced automated Food Delivery management system in Bangladesh. Features include real-time tracking, auto dispatch, multi-branch management, and COD system.",
-  keywords: ["Food Delivery Software", "Logistics Management", "Food Delivery Tracking System", "Delivery Management Software"],
+  title: "FoodLab | Smart FoodLab Delivery Management Software",
+  description: "Advanced automated courier management system in Bangladesh. Features include real-time tracking, auto dispatch, multi-branch management, and COD system.",
+  keywords: ["FoodLab Software", "FoodLab Delivery Management", "FoodLab Delivery Tracking System", "Delivery Management Software"],
 };
 
 export default function RootLayout({
